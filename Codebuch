@@ -53,7 +53,7 @@ etc.
 -   education (höchster Bildungsabschluss, 1 = Abitur, 2 = Bachelor, 3 = Master, 4 = Promotion, 5 = Diplom, 6 = Staatsexamen, 7 = Magister Articum)
 -   subject (Fachrichtung bei Studium/Promotion, 1 = Politikwissenschaften, 2 = Rechtswissenschaften, 3 = Wirtschaftswissenschaften, 4 = Sozialpädagogik)
 -   party (Parteizugehörigkeit, 1 = SPD, 2 = GRUENE, 3 = FDP)
--   religion (Religion, 1 = evangelisch, 2 = römisch-katholisch, 3 = muslimisch)
+-   religion (Religion, 1 = evangelisch, 2 = römisch-katholisch, 3 = muslimisch, 99 = keine Angabe)
 -   kids (Anzahl der Kinder)
 -   twitter (Anzahl follower)
 -   instagram (Anzahl follower)
